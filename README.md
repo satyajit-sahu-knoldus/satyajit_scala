@@ -35,9 +35,9 @@ Go to your sbt project path and compile it and run below command to create a .zi
 
 **Available flags :**
 ```
-* -p1	: Pattern1
-* -p2	: Pattern2
-* -p3	: Pattern3
-* -p4 : Pattern4
-* -p5	: Pattern5
+* -p1	=> Pattern1
+* -p2	=> Pattern2
+* -p3	=> Pattern3
+* -p4 => Pattern4
+* -p5	=> Pattern5
 ```
