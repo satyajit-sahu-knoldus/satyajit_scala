@@ -6,11 +6,11 @@ This is a multimodule command line parser written in Scala using sbt as a build 
 
 To package the application I have used the sbt-native-packager (universal plugin) and also I have used GraalVm native-image. It creates a distribution that is not tied to any particular platform.
 
-__Plugins Used :
+__Plugins Used :__
 `addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.6.1") //For native packager
 addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.6")  //For assembly  __`
 
-__Enabling the plugin:
+__Enabling the plugin:__
 `enablePlugins(UniversalPlugin)
 enablePlugins(JavaAppPackaging, GraalVMNativeImagePlugin)__`
 
