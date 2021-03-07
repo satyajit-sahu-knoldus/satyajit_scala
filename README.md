@@ -38,6 +38,6 @@ Go to your sbt project path and compile it and run below command to create a .zi
 * -p1	=> Pattern1
 * -p2	=> Pattern2
 * -p3	=> Pattern3
-* -p4 => Pattern4
+* -p4  => Pattern4
 * -p5	=> Pattern5
 ```
